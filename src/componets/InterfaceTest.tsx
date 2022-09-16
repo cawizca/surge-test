@@ -4,6 +4,9 @@ interface Person {
   work: string;
 }
 
+//web3js
+//ethers
+
 const InterfaceTest = () => {
   const person: Person = {
     name: 'Kavishka',
